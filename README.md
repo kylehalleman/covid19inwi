@@ -8,6 +8,7 @@ A list of links to local information and resources about COVID-19
 
 ## Official sources
 
+* [Executive Orders by Governor Evers](https://evers.wi.gov/Pages/Newsroom/Executive-Orders.aspx)
 * [WI DHS COVID-19 Homepage](https://www.dhs.wisconsin.gov/covid-19/index.htm)
 * [Official WI DHS confirmed cases numbers](https://www.dhs.wisconsin.gov/outbreaks/index.htm)
 * [Washington-Ozaukee counties public health department](http://www.washozwi.gov/) (includes info on food pantries)
