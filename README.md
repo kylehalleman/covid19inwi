@@ -25,7 +25,7 @@ A list of links to local information and resources about COVID-19
 
 ## Supporting local businesses
 
-* [https://www.jsonline.com/story/entertainment/dining/2020/03/17/milwaukee-restaurants-and-bars-takeout-delivery-during-coronavirus/5067070002/](https://www.jsonline.com/story/entertainment/dining/2020/03/17/milwaukee-restaurants-and-bars-takeout-delivery-during-coronavirus/5067070002/) — JSOnline
+* [Here's which Milwaukee restaurants and bars are open for takeout and delivery during coronavirus](https://www.jsonline.com/story/entertainment/dining/2020/03/17/milwaukee-restaurants-and-bars-takeout-delivery-during-coronavirus/5067070002/) — JSOnline
 
 ## Social media
 
