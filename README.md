@@ -26,6 +26,10 @@ A list of links to local information and resources about COVID-19
 * [Versiti](https://donate.wisconsin.versiti.org/donor/schedules/centers)
 * [Red Cross](https://www.redcross.org/local/wisconsin/about-us/locations/southeast-chapter.html)
 
+## Food
+
+* [Free community meals for those in need at Tandem](https://www.facebook.com/tandemmke/)
+
 ## Supporting local businesses
 
 * [Here's which Milwaukee restaurants and bars are open for takeout and delivery during coronavirus](https://www.jsonline.com/story/entertainment/dining/2020/03/17/milwaukee-restaurants-and-bars-takeout-delivery-during-coronavirus/5067070002/) — JSOnline
