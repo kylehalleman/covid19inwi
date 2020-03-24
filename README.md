@@ -19,7 +19,13 @@ A list of links to local information and resources about COVID-19
 * [Hunger Task Force](https://www.hungertaskforce.org/what-we-do/get-help-now-covid-19/)
 * [Feeding America Eastern Wisconsin](https://feedingamericawi.org/how-feeding-america-eastern-wisconsin-is-responding-to-the-coronavirus/)
 
+## Assistance programs
+
+* [COVID-19 Child Care Request for Health Care Workers](https://childcarefinder.wisconsin.gov/EmergencyRequest.aspx)
+
 ## Volunteer opportunities
+
+* [WI Dept. of Children and Families request for professional child care volunteers](https://bit.ly/2vLevBI)
 
 ## Donating blood
 
