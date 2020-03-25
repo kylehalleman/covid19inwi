@@ -11,7 +11,7 @@ A list of links to local information and resources about COVID-19.
   * [Funding (loan/grant) opportunities -- For Businesses/ Business Owners](#funding-loangrant-opportunities----for-businesses-business-owners)
   * [Funding for Non-Profits and Causes](#funding-for-non-profits-and-causes)
   * [Healthcare/ Health Access](#healthcare-health-access)
-  * [Funding (loan/grant) opportunities -- For Employees/Workers](#funding-loangrant-opportunities----for-employeesworkers)
+  * [Funding (donations) opportunities -- For Employees/Workers](#funding-loangrant-opportunities----for-employeesworkers)
 - [Volunteer opportunities](#volunteer-opportunities)
 - [Donating blood](#donating-blood)
 - [Supporting Food/Service Industry](#supporting-foodservice-industry)
@@ -122,6 +122,13 @@ A list of links to local information and resources about COVID-19.
 
 * The [Wisconsin SBA](https://www.sba.gov/offices/district/wi/milwaukee) and its other SBA resource partners,— including [WWBIC](https://www.wwbic.com/), [Western Wisconsin Women’s Business Center](https://www.successfulbusiness.org/), [SCORE](https://www.score.org/), and [Veterans Business Outreach Center](https://www.wwbic.com/veterans/) — are also working to assist their clients.
 
+* GoFundMe Small Business Support
+     - Start a [fundraiser for your business]((https://www.gofundme.com/small-business-relief-fundraisers?utm_source=email&utm_medium=marketing&utm_content=announcement&utm_campaign=032520_Small_Biz_Initiative_text_link))
+     - To [Donate](https://www.gofundme.com/f/smallbusinessrelieffund?utm_source=email&utm_medium=marketing&utm_content=announcement&utm_campaign=032520_Small_Biz_Initiative_text_link)
+
+* [Milky Way Tech Hub Small Business Support Grant](https://docs.google.com/forms/d/e/1FAIpQLScAbYruE8qGs24plI-6S72lp4Eem_RpmY1Nx19kzX4g7gfulQ/viewform?usp=send_form)
+
+
 ### Funding for Non-Profits and Causes
 
 * [Greater Milwaukee Foundation Response Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
@@ -136,7 +143,7 @@ A list of links to local information and resources about COVID-19.
 
 * [Free and Low Cost Health Clinics](https://city.milwaukee.gov/health/medassist/health/free-and-Lowcost-Clinics-in-Milwaukee#.XnrkdtNKiu4)
 
-### Funding (loan/grant) opportunities -- For Employees/Workers
+### Funding (donations) opportunities -- For Employees/Workers
 
 * [Directory of bars and restaurants](https://www.tipmke.com/?fbclid=IwAR2lcoMxeVQxv81A7WT1QeNpRfuxQV7nQyOqnQp_1kbGRXfN94QVoPsX3_s)
      - Give a service industry worker a hand: find your local service industry providers on mobile payment service apps, so that you can provide a tip digitally, as you would if you were patronizing their workplace.
@@ -161,9 +168,12 @@ A list of links to local information and resources about COVID-19.
 * [Red Cross](https://www.redcross.org/local/wisconsin/about-us/locations/southeast-chapter.html)
 
 
+
 ## Supporting Food/Service Industry
 
 * [Here's which Milwaukee restaurants and bars are open for takeout and delivery during coronavirus](https://www.jsonline.com/story/entertainment/dining/2020/03/17/milwaukee-restaurants-and-bars-takeout-delivery-during-coronavirus/5067070002/) — JSOnline
+
+* [Fundraiser for Sherman Phoenix](https://www.shermanphoenix.com/donatetoday)
 
 ## Civic Engagement
 
