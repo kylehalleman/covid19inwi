@@ -105,6 +105,8 @@ A list of links to local information and resources about COVID-19
 
 ## What businesses are essential and (possibly) operating:
 
+Source: (Wisconsin Emergency Order #12)[https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf]
+
 * Stores that sell groceries and medicine. The order includes stores that sell alcoholic beverages and store that sell products needed for the safety, sanitation and essential operation of residences and essential businesses and operations.
 
 * Food and beverage production, and agriculture.
@@ -150,7 +152,7 @@ workers, along with plumbers, electricians, exterminators and the cleaning staff
 
 - Religious entities. 
 
-## If you feel ill
+## [If you feel ill](https://www.dhs.wisconsin.gov/covid-19/illness.htm)
 
 - If you are experiencing signs and symptoms of COVID-19, please call your health care provider.
 
