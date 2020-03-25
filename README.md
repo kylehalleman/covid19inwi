@@ -1,6 +1,26 @@
 # COVID-19 in Wisconsin
 
-A list of links to local information and resources about COVID-19
+A list of links to local information and resources about COVID-19.
+
+- [Data](#data)
+- [Official sources](#official-sources)
+- [Food Services](#food-services)
+- [Assistance programs](#assistance-programs)
+  * [Human Resources](#human-resources)
+  * [Internet Services](#internet-services)
+  * [Funding (loan/grant) opportunities -- For Businesses/ Business Owners](#funding-loangrant-opportunities----for-businesses-business-owners)
+  * [Funding for Non-Profits and Causes](#funding-for-non-profits-and-causes)
+  * [Healthcare/ Health Access](#healthcare-health-access)
+  * [Funding (donations) opportunities -- For Employees/Workers](#funding-loangrant-opportunities----for-employeesworkers)
+- [Volunteer opportunities](#volunteer-opportunities)
+- [Donating blood](#donating-blood)
+- [Supporting Food/Service Industry](#supporting-foodservice-industry)
+- [Civic Engagement](#civic-engagement)
+- [Additional Resources for the Greater Region:](#additional-resources-for-the-greater-region)
+- [Businesses or Institutions that ARE Closed (at their location):](#businesses-or-institutions-that-are-closed-at-their-location)
+- [What businesses are essential and (possibly) operating:](#what-businesses-are-essential-and-possibly-operating)
+- [If you feel ill](#if-you-feel-ill)
+- [Support Journalism](#support-journalism)
 
 ## Data
 
