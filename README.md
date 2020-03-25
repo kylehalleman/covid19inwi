@@ -228,7 +228,7 @@ workers, along with plumbers, electricians, exterminators and the cleaning staff
 
 ## Support Journalism
 
-* MilwaukeeNNS
-* UrbanMilwaukee
-* Milwaukee Independent
-* Journal Sentinel
+* [MilwaukeeNNS](https://milwaukeenns.org/)
+* [UrbanMilwaukee](https://urbanmilwaukee.com/)
+* [Milwaukee Independent](http://www.milwaukeeindependent.com/)
+* [Journal Sentinel](https://www.jsonline.com/)
