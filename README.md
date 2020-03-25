@@ -102,6 +102,11 @@ A list of links to local information and resources about COVID-19
 
 * The [Wisconsin SBA](https://www.sba.gov/offices/district/wi/milwaukee) and its other SBA resource partners,— including [WWBIC](https://www.wwbic.com/), [Western Wisconsin Women’s Business Center](https://www.successfulbusiness.org/), [SCORE](https://www.score.org/), and [Veterans Business Outreach Center](https://www.wwbic.com/veterans/) — are also working to assist their clients.
 
+* GoFundMe Small Business Support
+     - Start a [fundraiser for your business]((https://www.gofundme.com/small-business-relief-fundraisers?utm_source=email&utm_medium=marketing&utm_content=announcement&utm_campaign=032520_Small_Biz_Initiative_text_link))
+     - To [Donate](https://www.gofundme.com/f/smallbusinessrelieffund?utm_source=email&utm_medium=marketing&utm_content=announcement&utm_campaign=032520_Small_Biz_Initiative_text_link)
+
+
 ### Funding for Non-Profits and Causes
 
 * [Greater Milwaukee Foundation Response Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
