@@ -200,7 +200,7 @@ A list of links to local information and resources about COVID-19.
 
 ## What businesses are essential and (possibly) operating:
 
-Source: (Wisconsin Emergency Order #12)[https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf]
+Source: [Wisconsin Emergency Order #12](https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf)
 
 * Stores that sell groceries and medicine. The order includes stores that sell alcoholic beverages and store that sell products needed for the safety, sanitation and essential operation of residences and essential businesses and operations.
 
@@ -233,7 +233,7 @@ workers, along with plumbers, electricians, exterminators and the cleaning staff
 
 * Transportation services needed for essential activities and other purposes described in the order.
 
-* Home*based care and services.
+* Home-based care and services.
 
 * Professional services like legal, accounting, insurance and real estate.
 
