@@ -11,7 +11,7 @@ A list of links to local information and resources about COVID-19.
   * [Funding (loan/grant) opportunities -- For Businesses/ Business Owners](#funding-loangrant-opportunities----for-businesses-business-owners)
   * [Funding for Non-Profits and Causes](#funding-for-non-profits-and-causes)
   * [Healthcare/ Health Access](#healthcare-health-access)
-  * [Funding (donations) opportunities -- For Employees/Workers](#funding-loangrant-opportunities----for-employeesworkers)
+  * [Funding (donations) opportunities -- For Employees/Workers](#funding-donations-opportunities----for-employeesworkers)
 - [Volunteer opportunities](#volunteer-opportunities)
 - [Donating blood](#donating-blood)
 - [Supporting Food/Service Industry](#supporting-foodservice-industry)
