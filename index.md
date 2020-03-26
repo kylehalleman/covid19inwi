@@ -1,7 +1,10 @@
 ---
 layout: default
+title: Milwaukee Responds to Covid-19
+description: Covid19 Relief Resources in the Milwaukee Area
 ---
-# COVID-19 in Wisconsin
+
+# Milwaukee Area Relief
 
 A list of links to local information and resources about COVID-19.
 
