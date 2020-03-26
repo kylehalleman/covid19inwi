@@ -6,7 +6,28 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 # Milwaukee Area Relief
 
-A list of links to local information and resources about COVID-19.
+A list of links to local information and resources about COVID-19. <br><br>
+        <script>
+          const button = document.getElementById('click-me');
+          button.addEventListener('click', event => alert(event));
+        </script>
+        <style>
+          #click-me {
+            all: unset;
+            background: teal;
+            border: 0;
+            border-radius: 4px;
+            color: white;
+            font-family: Helvetica;
+            font-size: 1.5rem;
+            padding: .5rem 1rem;
+          }
+          #click-me:a{
+               color: white;
+          }
+        </style>
+      - See a service that isn't listed?
+      <button id="click-me"><a href='https://forms.gle/TPLCAHgvJtsFec8V8' style="color: white;">Fill out this form</a></button>
 
 - [Data](#data)
 - [Official sources](#official-sources)
@@ -268,3 +289,25 @@ workers, along with plumbers, electricians, exterminators and the cleaning staff
 * [UrbanMilwaukee](https://urbanmilwaukee.com/)
 * [Milwaukee Independent](http://www.milwaukeeindependent.com/)
 * [Journal Sentinel](https://www.jsonline.com/)
+<br><br>
+        <script>
+          const button = document.getElementById('click-me');
+          button.addEventListener('click', event => alert(event));
+        </script>
+        <style>
+          #click-me {
+            all: unset;
+            background: teal;
+            border: 0;
+            border-radius: 4px;
+            color: white;
+            font-family: Helvetica;
+            font-size: 1.5rem;
+            padding: .5rem 1rem;
+          }
+          #click-me:a{
+               color: white;
+          }
+        </style>
+      - See a service that isn't listed?
+      <button id="click-me"><a href='https://forms.gle/TPLCAHgvJtsFec8V8' style="color: white;">Fill out this form</a></button>
