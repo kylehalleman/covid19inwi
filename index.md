@@ -202,6 +202,10 @@ A list of links to local information and resources about COVID-19. <br><br>
 
 * [Fundraiser for Sherman Phoenix](https://www.shermanphoenix.com/donatetoday)
 
+* [MKE Strong App](https://mkestrong.glideapp.io/)
+     - App that aggregates the number of retail and hospitality businesses that are still open for delivery, takeout and online sales. 300+ listings!
+     - [Contact](paul@lemleymedia.com)
+
 ## Civic Engagement
 
 * [Regiser to Vote](myvote.wi.gov/en-US/RegisterToVote)
