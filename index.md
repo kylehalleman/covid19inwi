@@ -4,30 +4,14 @@ title: Milwaukee Responds to Covid-19
 description: Covid19 Relief Resources in the Milwaukee Area
 ---
 
+
+
 # Milwaukee Area Relief
 
-A list of links to local information and resources about COVID-19. <br><br>
-        <script>
-          const button = document.getElementById('click-me');
-          button.addEventListener('click', event => alert(event));
-        </script>
-        <style>
-          #click-me {
-            all: unset;
-            background: teal;
-            border: 0;
-            border-radius: 4px;
-            color: white;
-            font-family: Helvetica;
-            font-size: 1.5rem;
-            padding: .5rem 1rem;
-          }
-          #click-me:a{
-               color: white;
-          }
-        </style>
-      - See a service that isn't listed?
-      <button id="click-me"><a href='https://forms.gle/TPLCAHgvJtsFec8V8' style="color: white;">Fill out this form</a></button>
+## City of Milwaukee Health Department Message on Covid-19
+<iframe width="420" height="315" src="https://youtube.com/embed/OTHm9g6xoDM" frameborder="0" allowfullscreen></iframe>
+
+##Contents 
 
 - [Data](#data)
 - [Official sources](#official-sources)
@@ -48,6 +32,29 @@ A list of links to local information and resources about COVID-19. <br><br>
 - [What businesses are essential and (possibly) operating:](#what-businesses-are-essential-and-possibly-operating)
 - [If you feel ill](#if-you-feel-ill)
 - [Support Journalism](#support-journalism)
+
+<br><br>
+        <script>
+          const button = document.getElementById('click-me');
+          button.addEventListener('click', event => alert(event));
+        </script>
+        <style>
+          #click-me {
+            all: unset;
+            background: teal;
+            border: 0;
+            border-radius: 4px;
+            color: white;
+            font-family: Helvetica;
+            font-size: 1.5rem;
+            padding: .5rem 1rem;
+          }
+          #click-me:a{
+               color: white;
+          }
+        </style>
+      - See a service that isn't listed? <br>
+      <button id="click-me"><a href='https://forms.gle/TPLCAHgvJtsFec8V8' style="color: white;">Fill out this form</a></button>
 
 ## Data
 
@@ -154,7 +161,14 @@ A list of links to local information and resources about COVID-19. <br><br>
      - To [Donate](https://www.gofundme.com/f/smallbusinessrelieffund?utm_source=email&utm_medium=marketing&utm_content=announcement&utm_campaign=032520_Small_Biz_Initiative_text_link)
 
 * [Milky Way Tech Hub Small Business Support Grant](https://docs.google.com/forms/d/e/1FAIpQLScAbYruE8qGs24plI-6S72lp4Eem_RpmY1Nx19kzX4g7gfulQ/viewform?usp=send_form)
+     - Any small businesses that fit the criteria for the grant can apply.
+     - [Webinars](https://zoom.us/j/748624433) on Wednesdays and Fridays prior to an April 10th grant award date
 
+* Young Enterprising Society's Support and Resources for Small & Micro-Businesses During COVID-19 [Webinar](https://register.gotowebinar.com/register/9040537952586335756)
+
+
+* Hello Alice [Covid-19 Small Business Resource Center](https://www.covid19businesscenter.com/)
+     - Includes grant funding ($10k opportunities) and guidance
 
 ### Funding for Non-Profits and Causes
 
@@ -313,5 +327,5 @@ workers, along with plumbers, electricians, exterminators and the cleaning staff
                color: white;
           }
         </style>
-      - See a service that isn't listed?
+      - See a service that isn't listed?<br>
       <button id="click-me"><a href='https://forms.gle/TPLCAHgvJtsFec8V8' style="color: white;">Fill out this form</a></button>
