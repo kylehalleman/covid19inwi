@@ -139,6 +139,8 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 ### Funding (loan/grant) opportunities -- For Businesses/ Business Owners
 
+* Support local businesses by [buying gift cards](https://supportlocal.usatoday.com/city/milwaukee-wi/)
+
 * [Gener8tor Emergency Response Program: tutorials and guides on securing funding to sustain business](https://www.gener8tor.com/emergency-response-program)
 
 * [WEDC](https://wedc.org/programs-and-resources/covid-19-response/)
