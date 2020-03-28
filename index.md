@@ -4,8 +4,6 @@ title: Milwaukee Responds to Covid-19
 description: Covid19 Relief Resources in the Milwaukee Area
 ---
 
-
-
 # Milwaukee Area Relief
 
 ## City of Milwaukee Health Department Message on Covid-19
@@ -19,10 +17,10 @@ description: Covid19 Relief Resources in the Milwaukee Area
 - [Assistance programs](#assistance-programs)
   * [Human Resources](#human-resources)
   * [Internet Services](#internet-services)
-  * [Funding (loan/grant) opportunities -- For Businesses/ Business Owners](#funding-loangrant-opportunities----for-businesses-business-owners)
+  * [Funding (loan/grant) opportunities -- Businesses](#funding-loangrant-opportunities-for-businesses)
   * [Funding for Non-Profits and Causes](#funding-for-non-profits-and-causes)
   * [Healthcare/ Health Access](#healthcare-health-access)
-  * [Funding (donations) opportunities -- For Employees/Workers](#funding-loangrant-opportunities----for-employeesworkers)
+  * [Funding (donations) opportunities -- For Employees/Workers](#funding-donations-opportunities-for-employees)
 - [Volunteer opportunities](#volunteer-opportunities)
 - [Donating blood](#donating-blood)
 - [Supporting Food/Service Industry](#supporting-foodservice-industry)
@@ -144,7 +142,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * [Free Internet Services for 60 days from Charter Communications](bit.ly/free60wifi), 1-844-488-8395
 
-### Funding (loan/grant) opportunities -- For Businesses/ Business Owners
+### Funding (loan/grant) opportunities for Businesses
 
 * Support local businesses by [buying gift cards](https://supportlocal.usatoday.com/city/milwaukee-wi/)
 
@@ -193,7 +191,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * [Free and Low Cost Health Clinics](https://city.milwaukee.gov/health/medassist/health/free-and-Lowcost-Clinics-in-Milwaukee#.XnrkdtNKiu4)
 
-### Funding (donations) opportunities -- For Employees/Workers
+### Funding (donations) opportunities for Employees
 
 * [Directory of bars and restaurants](https://www.tipmke.com/?fbclid=IwAR2lcoMxeVQxv81A7WT1QeNpRfuxQV7nQyOqnQp_1kbGRXfN94QVoPsX3_s)
      - Give a service industry worker a hand: find your local service industry providers on mobile payment service apps, so that you can provide a tip digitally, as you would if you were patronizing their workplace.

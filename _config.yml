@@ -2,3 +2,5 @@ title: Milwaukee Responds to Covid19
 description:
 markdown: kramdown
 theme: jekyll-theme-slate
+plugins:
+- jekyll-menus
