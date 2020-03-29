@@ -23,7 +23,7 @@
           {% for item in sorted_pages %}
             {% if item.title %}
               <li class="site-nav__item">
-                <a href="{{ item.url }}">{{ item.title }}</a>
+                <a href=".{{ item.url }}">{{ item.title }}</a>
               </li>
             {% endif %}
           {% endfor %}
