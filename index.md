@@ -185,17 +185,23 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * [Story on foundation partnership](https://www.greatermilwaukeefoundation.org/community-leadership/community-responds/)
 
-### Healthcare/ Health Access
- * If you recently lost a job, you will likely qualify for a special enrollment period to sign up for health insurance through the [Healthcare.gov](healthcare.gov) marketplace, and be eligible for health insurance with tax credits that will lower your monthly preimums
-        - Info on [special enrollment periods](https://www.healthcare.gov/glossary/special-enrollment-period/)
-
-* [Free and Low Cost Health Clinics](https://city.milwaukee.gov/health/medassist/health/free-and-Lowcost-Clinics-in-Milwaukee#.XnrkdtNKiu4)
 
 ### Funding (donations) opportunities for Employees
 
 * [Directory of bars and restaurants](https://www.tipmke.com/?fbclid=IwAR2lcoMxeVQxv81A7WT1QeNpRfuxQV7nQyOqnQp_1kbGRXfN94QVoPsX3_s)
      - Give a service industry worker a hand: find your local service industry providers on mobile payment service apps, so that you can provide a tip digitally, as you would if you were patronizing their workplace.
  
+### Funding for Artists 
+
+* [ImagineMKE Artists Relief Fund](https://www.imaginemke.org/mke-artist-relief-fund/)
+     - To help support our city's artists and creators, we are raising money for a MKE Artist Relief Fund that will benefit Milwaukee-based artists who have experienced a financial loss due to a cancelled live event, performance, or engagement.
+
+### Healthcare/ Health Access
+ * If you recently lost a job, you will likely qualify for a special enrollment period to sign up for health insurance through the [Healthcare.gov](healthcare.gov) marketplace, and be eligible for health insurance with tax credits that will lower your monthly preimums
+        - Info on [special enrollment periods](https://www.healthcare.gov/glossary/special-enrollment-period/)
+
+* [Free and Low Cost Health Clinics](https://city.milwaukee.gov/health/medassist/health/free-and-Lowcost-Clinics-in-Milwaukee#.XnrkdtNKiu4)
+
 ## Volunteer opportunities
 
 * [WI Dept. of Children and Families request for professional child care volunteers](https://bit.ly/2vLevBI)
