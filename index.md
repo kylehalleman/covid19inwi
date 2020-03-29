@@ -146,6 +146,8 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * Support local businesses by [buying gift cards](https://supportlocal.usatoday.com/city/milwaukee-wi/)
 
+* US Chamber of Commerce [Small Business Guide and Checklist](https://www.uschamber.com/sites/default/files/023595_comm_corona_virus_smallbiz_loan_final_revised.pdf)
+
 * [Gener8tor Emergency Response Program: tutorials and guides on securing funding to sustain business](https://www.gener8tor.com/emergency-response-program)
 
 * [WEDC](https://wedc.org/programs-and-resources/covid-19-response/)
