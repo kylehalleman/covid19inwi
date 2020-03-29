@@ -1,0 +1,291 @@
+---
+---
+
+/**
+ * Copyright (c) 2018 Kyle Halleman
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ *
+ * Walden: a simple stylesheet for simple, semantic websites
+ * https://github.com/kylehalleman/walden
+ *
+ * Parts of the base styling comes from Normalize
+ * https://github.com/necolas/normalize.css
+ */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --container-size: 40em;
+  /* set up CSS vars */
+  --base-color: hsl(0, 0%, 20%);
+  --base-bg: hsl(0, 0%, 96%);
+  --base-color--transparent: hsla(0, 0%, 20%, 0.375);
+  --base-color--very-transparent: hsla(0, 0%, 20%, 0.0375);
+  --base-link-color: #4a69bd;
+  --base-link-visited: rebeccapurple;
+  --base-link-active: hsl(344, 79%, 40%);
+}
+
+@media (prefers-color-scheme: dark), (prefers-dark-interface) {
+  :root {
+    --base-color: hsl(0, 0%, 96%);
+    --base-bg: hsl(0, 0%, 20%);
+    --base-color--transparent: hsla(0, 0%, 96%, 0.375);
+    --base-color--very-transparent: hsla(0, 0%, 96%, 0.0375);
+    --base-link-color: #34ace0;
+    --base-link-color: #25ccf7;
+    --base-link-visited: #d6a2e8;
+    --base-link-active: #f1c40f;
+  }
+}
+
+html {
+  /* normalize */
+  -webkit-text-size-adjust: 100%;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  /**
+    * use the system font
+    * https://furbo.org/2018/03/28/system-fonts-in-css/
+    */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  /* https://css-tricks.com/fun-viewport-units/ */
+  font-size: calc(16px + 0.1vw);
+  margin: 0;
+  line-height: 1.4;
+  background-color: hsl(0, 0%, 94%);
+  background-color: var(--base-bg);
+  color: hsl(0, 0%, 20%);
+  color: var(--base-color);
+}
+
+a {
+  color: var(--base-link-color);
+}
+
+a:active {
+  color: var(--base-link-active);
+}
+
+a:visited {
+  color: var(--base-link-visited);
+}
+
+main {
+  margin: 0 auto;
+  padding: 0 1em;
+  max-width: var(--container-size);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1em 0 0.5em;
+  margin-block-start: 1em;
+  margin-block-end: 0.5em;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  margin: 0;
+}
+
+p + p {
+  margin: 1em 0 0;
+  margin-block-start: 1em;
+}
+
+hr {
+  /* normalize */
+  box-sizing: content-box;
+  border: 0;
+  height: 0.0625em;
+  background-color: hsl(0, 0%, 20%);
+  background-color: var(--base-color);
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom: 0.0625em dotted;
+  cursor: help;
+}
+
+/**
+  * from Normalize:
+  * 1. Correct the inheritance and scaling of font size in all browsers.
+  * 2. Correct the odd `em` font sizing in all browsers.
+  */
+
+pre,
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  line-height: 1;
+}
+
+details {
+  margin-bottom: 1em;
+  margin-block-end: 1em;
+}
+
+summary {
+  font-weight: 700;
+}
+
+blockquote {
+  margin-left: 1.25em;
+  margin-inline-start: 1.25em;
+  margin-right: 2em;
+  margin-inline-end: 2em;
+  padding-left: 0.75em;
+  border-left: 0.0625em solid;
+}
+
+dt {
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1em;
+  margin-block-end: 1em;
+}
+
+caption {
+  font-style: italic;
+}
+
+thead {
+  border-bottom: 2px solid;
+}
+
+th,
+td {
+  text-align: left;
+  text-align: start;
+  vertical-align: top;
+  padding: 0.25em 0.5em;
+}
+
+tr {
+  border-bottom: 1px solid;
+}
+
+tfoot {
+  border-top: 2px solid;
+}
+
+tfoot tr {
+  border-bottom: 0;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: hsla(0, 0%, 0%, 0.0375);
+  background-color: var(--base-color--very-transparent);
+}
+
+ol,
+ul {
+  margin: 0 0 1em;
+  margin-block-end: 1em;
+  padding-left: 2em;
+}
+
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+  margin: 0;
+  margin-block-end: 0;
+  margin-block-start: 0.25em;
+}
+
+li {
+  margin-block-end: 0.25em;
+}
+
+// custom stuff
+
+footer,
+header {
+  margin: 0 auto;
+  padding: 1em;
+  max-width: var(--container-size);
+}
+
+.site-title {
+  font-size: 2em;
+  margin-bottom: 0;
+  margin-block-end: 0;
+}
+
+.site-desc {
+  font-size: 0.75em;
+  margin-top: 0;
+  margin-block-start: 0;
+}
+
+.site-nav {
+  margin-top: 1em;
+  margin-block-start: 1em;
+  // padding-left: 0;
+  // display: flex;
+  // list-style: none;
+}
+
+.site-nav__item {
+}
+
+.contributors {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  text-align: center;
+  padding-left: 0;
+
+  img {
+    display: block;
+    margin: 0 auto 0.25em;
+    max-width: 4em;
+    border-radius: 100%;
+  }
+}
+
+.contributor {
+  margin: 1em;
+}
