@@ -18,10 +18,14 @@
 
       <nav>
         <ul class="site-nav">
-          {% for item in site.menus.header %}
-            <li class="site-nav__item">
-              <a href="{{ item.url }}">{{ item.title }}</a>
-            </li>
+          {% assign sorted_pages = site.pages | sort : "order" %}
+
+          {% for item in sorted_pages %}
+            {% if item.title %}
+              <li class="site-nav__item">
+                <a href="{{ item.url }}">{{ item.title }}</a>
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </nav>

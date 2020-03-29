@@ -1,7 +1,5 @@
 ---
-menus:
-  header:
-    weight: 2
+order: 2
 ---
 
 # How to get help

@@ -1,7 +1,5 @@
 ---
-menus:
-  header:
-    weight: 100
+order: 100
 ---
 
 # How to contribute to this resource

@@ -1,7 +1,5 @@
 ---
-menus:
-  header:
-    weight: 1
+order: 1
 ---
 
 # General information and data
