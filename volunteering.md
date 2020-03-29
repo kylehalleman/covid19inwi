@@ -6,7 +6,7 @@ menus:
 
 # How to help
 
-* Will be replaced with the ToC
+* Table of contents
 {:toc}
 
 ## General volunteering and donating
