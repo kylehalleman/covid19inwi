@@ -181,7 +181,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * [Greater Milwaukee Foundation Response Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
 
-* [United Way Urgen Needs Fund](https://www.unitedwaygmwc.org/Donate/COVID-19-Urgent-Needs-Fund)
+* [United Way Urgent Needs Fund](https://www.unitedwaygmwc.org/Donate/COVID-19-Urgent-Needs-Fund)
 
 * [Story on foundation partnership](https://www.greatermilwaukeefoundation.org/community-leadership/community-responds/)
 
