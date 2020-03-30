@@ -7,11 +7,7 @@ order: 2
 * Table of contents
 {:toc}
 
-## Mental Health
 
-* Crisis Counselor through CrisisTextLIne - individuals in severe distress, mental health crisis, or who have high anxiety over Covid-19 can text "HOME" to 741741
-
-* Online [Emotional Support Groups](https://forms.gle/JgvQ7BdV4N5wgmpw8) with JustAGirl Inc
 
 ## General assistance
 
@@ -58,10 +54,14 @@ order: 2
 * [Healthcare.gov](https://www.healthcare.gov/)
 * [City of Milwaukee - Free and Low-cost Clinics in Milwaukee](https://city.milwaukee.gov/health/medassist/health/free-and-Lowcost-Clinics-in-Milwaukee)
 
+### Mental Health
+
+* Crisis Counselor through CrisisTextLIne - individuals in severe distress, mental health crisis, or who have high anxiety over Covid-19 can text "HOME" to 741741
+* Online [Emotional Support Groups](https://forms.gle/JgvQ7BdV4N5wgmpw8) with JustAGirl Inc
+
 ## Childcare
 
 * [Wisconsin Department of Children and Families - COVID-19 Child Care Request for Health Care Workers ](https://childcarefinder.wisconsin.gov/EmergencyRequest.aspx)
-
 * [Childcare from Medical Students for Healthcare Providers](http://milwcovidsitter.com)
   - We are a group of healthcare professional students at the Medical College of Wisconsin – Milwaukee. Our mission is to assist healthcare providers in the Milwaukee area with managing their household during the COVID-19 pandemic. #Students_Against_COVID
 
