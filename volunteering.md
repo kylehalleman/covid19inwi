@@ -36,6 +36,13 @@ order: 3
 * [MKE Strong](https://mkestrong.glideapp.io/)
   * Guide to local restaurants, retailers, artists and how to support them.
 
+## Mental Health Support
+
+* [Psychological First Aid Training for first responders](https://forms.gle/QFEEv2dvW9BHucQQ6) coordinated by JustAGirl
+
+* [Psychological First Aid Training for first general public](https://forms.gle/4cDRQBHEJ9cgCeEn7) coordinated by JustAGirl
+
+
 ## Support local journalism
 
 * [MilwaukeeNNS](https://milwaukeenns.org/)

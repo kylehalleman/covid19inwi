@@ -11,6 +11,8 @@ order: 2
 
 * Crisis Counselor through CrisisTextLIne - individuals in severe distress, mental health crisis, or who have high anxiety over Covid-19 can text "HOME" to 741741
 
+* Online [Emotional Support Groups](https://forms.gle/JgvQ7BdV4N5wgmpw8) with JustAGirl Inc
+
 ## General assistance
 
 * [Care and Mutual Aid Facebook group](https://www.facebook.com/Milwaukee-Community-Care-and-Mutual-Aid-100810858225006/)
