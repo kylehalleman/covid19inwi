@@ -17,6 +17,7 @@ order: 1
   * [Safer At Home - Wisconsin Emergency Order #12](https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf)
 * [WI DHS COVID-19 Homepage](https://www.dhs.wisconsin.gov/covid-19/index.htm)
 * [Official WI DHS confirmed cases numbers](https://www.dhs.wisconsin.gov/outbreaks/index.htm)
+* [Wisconsin COVID-19 Coronavirus Information Dashboard](https://govstatus.egov.com/wi-covid-19)
 * [Washington-Ozaukee counties public health department](http://www.washozwi.gov/) (includes info on food pantries)
 * [Milwaukee County COVID-19 Dashboard and news releases](https://county.milwaukee.gov/EN/COVID-19)
 * [Stay At Home Requirement (SPANISH)](https://city.milwaukee.gov/ImageLibrary/Groups/healthAuthors/COVID-19/MKEMHDCOVID19StayAd3.25.20SPANISH.jpg)
