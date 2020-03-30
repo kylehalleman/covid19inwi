@@ -21,6 +21,7 @@ order: 1
 * [Milwaukee County COVID-19 Dashboard and news releases](https://county.milwaukee.gov/EN/COVID-19)
 * [Stay At Home Requirement (SPANISH)](https://city.milwaukee.gov/ImageLibrary/Groups/healthAuthors/COVID-19/MKEMHDCOVID19StayAd3.25.20SPANISH.jpg)
 * [Translated FAQs & Letters to Family by MPS Superintendent](https://mps.milwaukee.k12.wi.us/en/District/About-MPS/District-News/Covid-19-Updates/Translated-Resources.htm)
+* [Milwaukee Health Department Facebook Page](https://www.facebook.com/MKEHealth/photos/a.1258640834204291/2768023429932683/?type=3&theater)
 
 ## Civic Engagement
 
