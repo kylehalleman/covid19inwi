@@ -30,7 +30,11 @@ order: 3
 
 * [TipMKE - directory for finding your local service industry professional](https://www.tipmke.com/)
 * [Here's which Milwaukee restaurants and bars are open for takeout and delivery during coronavirus - JSOnline](https://www.jsonline.com/story/entertainment/dining/2020/03/17/milwaukee-restaurants-and-bars-takeout-delivery-during-coronavirus/5067070002/)
+* [Restaurants offering to-go, delivery & curbside service during coronavirus - OnMilwaukee](https://onmilwaukee.com/dining/articles/restaurant-carryout-delivery-coronavirus.html)
 * [Fundraiser for Sherman Phoenix](https://www.shermanphoenix.com/donatetoday)
+* [Support East Side Businesses - The East Side](https://www.theeastside.org/support-the-east-side)
+* [MKE Strong](https://mkestrong.glideapp.io/)
+  * Guide to local restaurants, retailers, artists and how to support them.
 
 ## Support local journalism
 

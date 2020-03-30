@@ -19,7 +19,6 @@
       <nav>
         <ul class="site-nav">
           {% assign sorted_pages = site.pages | sort : "order" %}
-
           {% for item in sorted_pages %}
             {% if item.title %}
               <li class="site-nav__item">
