@@ -7,6 +7,10 @@ order: 2
 * Table of contents
 {:toc}
 
+## Mental Health
+
+* Crisis Counselor through CrisisTextLIne - individuals in severe distress, mental health crisis, or who have high anxiety over Covid-19 can text "HOME" to 741741
+
 ## General assistance
 
 * [Care and Mutual Aid Facebook group](https://www.facebook.com/Milwaukee-Community-Care-and-Mutual-Aid-100810858225006/)
@@ -52,6 +56,9 @@ order: 2
 ## Childcare
 
 * [Wisconsin Department of Children and Families - COVID-19 Child Care Request for Health Care Workers ](https://childcarefinder.wisconsin.gov/EmergencyRequest.aspx)
+
+* [Childcare from Medical Students for Healthcare Providers](http://milwcovidsitter.com)
+  - We are a group of healthcare professional students at the Medical College of Wisconsin – Milwaukee. Our mission is to assist healthcare providers in the Milwaukee area with managing their household during the COVID-19 pandemic. #Students_Against_COVID
 
 ## At-home Learning
 
