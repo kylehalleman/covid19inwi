@@ -24,7 +24,7 @@ order: 1
 
 ## Civic Engagement
 
-* [Regiser to Vote](https://myvote.wi.gov/en-US/RegisterToVote)
+* [Register to Vote](https://myvote.wi.gov/en-US/RegisterToVote)
 * [Request An Absentee Ballot](https://myvote.wi.gov/en-US/VoteAbsentee)
 * [Be Counted for the 2020 Census](https://my2020census.gov/)
 * [Milwaukee Drive-up Early Voting](https://city.milwaukee.gov/election)
