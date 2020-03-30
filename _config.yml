@@ -1,6 +1,8 @@
-title: Milwaukee Responds to Covid19
+title: COVID-19 in Wisconsin
 description:
 markdown: kramdown
-theme: jekyll-theme-slate
-plugins:
-- jekyll-menus
+kramdown:
+  toc_levels: [2, 3, 4, 5, 6]
+
+readme_index:
+  with_frontmatter: true
