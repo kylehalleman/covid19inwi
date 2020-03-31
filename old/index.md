@@ -2,6 +2,7 @@
 layout: default
 title: Milwaukee Responds to Covid-19
 description: Covid19 Relief Resources in the Milwaukee Area
+published: false
 ---
 
 # Milwaukee Area Relief
@@ -9,7 +10,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
 ## City of Milwaukee Health Department Message on Covid-19
 <iframe width="420" height="315" src="https://youtube.com/embed/OTHm9g6xoDM" frameborder="0" allowfullscreen></iframe>
 
-## Contents 
+## Contents
 
 - [Data](#data)
 - [Official sources](#official-sources)
@@ -69,7 +70,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
 * [Translated FAQs & Letters to Family by MPS Superintendent](https://mps.milwaukee.k12.wi.us/en/District/About-MPS/District-News/Covid-19-Updates/Translated-Resources.htm)
 
 
-## Food Services 
+## Food Services
 
 * [Hunger Task Force](https://www.hungertaskforce.org/what-we-do/get-help-now-covid-19/)
      - [MAP of Food Services](https://www.google.com/maps/d/u/0/viewer?mid=1ZZJSmpJNj4dVUszEuHnX3-w5vjj_bhAB&ll=43.05231163077368%2C-87.90688322141955&z=12)
@@ -84,7 +85,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
           - Daniels-Mardak Club (4834 N. 35th St, Milwaukee, WI 53209)
           - LaVarnway Club (2739 N. 15th St, Milwaukee, WI 53206)
           - Davis (1975 S. 24th St, Milwaukee, WI 53204)
-          - Fitzsimonds Club (3400 W. North Ave, Milwaukee, WI 53208)         
+          - Fitzsimonds Club (3400 W. North Ave, Milwaukee, WI 53208)
      - NOTE: - Service does not begin until March 30.
 
 [The Gathering of Southeast Wisconsin](http://www.thegatheringwis.org/blog//meal-program-happenings) is providing to-go bag lunches at all of its meal sites during this crisis until further notice
@@ -130,7 +131,7 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * MKE Mutual Aid- [contact](dsamkemutualaid@gmail.com) or call at 414.377.3443
      - 15-20 individuals are helping with specific needs daily
-     - 8:30am-10pm 
+     - 8:30am-10pm
 
 * Milwaukee Area Tenants Union- [contact](outreach@matunion.org) or call at 414.377.3443
      - New tenants rights organization in Milwaukee
@@ -192,8 +193,8 @@ description: Covid19 Relief Resources in the Milwaukee Area
 
 * [Directory of bars and restaurants](https://www.tipmke.com/?fbclid=IwAR2lcoMxeVQxv81A7WT1QeNpRfuxQV7nQyOqnQp_1kbGRXfN94QVoPsX3_s)
      - Give a service industry worker a hand: find your local service industry providers on mobile payment service apps, so that you can provide a tip digitally, as you would if you were patronizing their workplace.
- 
-### Funding for Artists 
+
+### Funding for Artists
 
 * [ImagineMKE Artists Relief Fund](https://www.imaginemke.org/mke-artist-relief-fund/)
      - To help support our city's artists and creators, we are raising money for a MKE Artist Relief Fund that will benefit Milwaukee-based artists who have experienced a financial loss due to a cancelled live event, performance, or engagement.
@@ -276,7 +277,7 @@ Source: [Wisconsin Emergency Order #12](https://evers.wi.gov/Documents/COVID19/E
 
 * Hardware and supplies stores.
 
-* Critical trades. The order offers examples including building and construction trades 
+* Critical trades. The order offers examples including building and construction trades
 workers, along with plumbers, electricians, exterminators and the cleaning staffs of commercial and governmental properties, among others.
 
 * Mail, post, shipping, logistics, delivery and pick-up services.
@@ -305,7 +306,7 @@ workers, along with plumbers, electricians, exterminators and the cleaning staff
 
 * Manufacturers, distributors and supply chain services for critical products and industries.
 
-- Religious entities. 
+- Religious entities.
 
 ## [If you feel ill](https://www.dhs.wisconsin.gov/covid-19/illness.htm)
 
