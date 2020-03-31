@@ -11,6 +11,7 @@ order: 3
 
 * [Greater Milwaukee Foundation’s MKE Responds Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
 * [United Way - COVID-19 Urgent Needs Fund](https://www.unitedwaygmwc.org/Donate/COVID-19-Urgent-Needs-Fund)
+* [United Way - Covid-19 Urgent Needs Volunteer Opportunities](https://volunteer.unitedwaygmwc.org/need/?q=&age=&agency_id=&county=&dateOn=&distance=&zip=&need_impact_area=&need_init_id=2999&qualification_id=&cat_id=&meta%5B%5D=&meta%5B%5D=&meta%5B%5D=&allowTeams=&ug_id=&s=1)
 
 ## Food assistance
 
