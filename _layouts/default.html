@@ -44,7 +44,7 @@
         {% for user in site.github.contributors %}
           <li class="contributor">
             <a href="{{ user.html_url }}">
-              <img src="{{user.avatar_url}}"/>
+              <img src="{{user.avatar_url}}" alt="Avatar for {{ user.login }}"/>
               {{ user.login }}
             </a>
           </li>
