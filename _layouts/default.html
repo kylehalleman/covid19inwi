@@ -17,7 +17,7 @@
       <p class="site-title">{{ site.title | default: site.github.repository_name }}</p>
       <p class="site-desc">{{ site.description | default: site.github.project_tagline }}. ⚠️ <a href="https://www.dhs.wisconsin.gov/covid-19/illness.htm">If you feel ill</a> ⚠️</p>
 
-      <nav>
+      <nav aria-label="Main navigation">
         <ul class="site-nav">
           {% assign sorted_pages = site.pages | sort : "order" %}
           {% for item in sorted_pages %}
@@ -51,6 +51,6 @@
         {% endfor %}
       </ul>
     </footer>
-
+    <script src="{{ '/assets/js/site.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   </body>
 </html>
