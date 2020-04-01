@@ -17,6 +17,8 @@ order: 2
 * [MKE Responds Basic Needs Assistance Form](https://t.co/R5f4KZzbPp?amp=1)
   - The fund's immediate focus is basic needs (food & housing) and medical and behavioral health services. 
   - Any questions? Contact MKEresponds@greatermilwaukeefoundation.org
+* [Southside Organizing Center Resource Guide](https://socmilwaukee.org/index/coronavirus-info)
+  - Additional resources covering a wide array of needs
 
 ## Food assistance
 
