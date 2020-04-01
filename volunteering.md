@@ -41,7 +41,7 @@ order: 3
 
 * [Psychological First Aid Training for first responders](https://forms.gle/QFEEv2dvW9BHucQQ6) coordinated by JustAGirl
 
-* [Psychological First Aid Training for first general public](https://forms.gle/4cDRQBHEJ9cgCeEn7) coordinated by JustAGirl
+* [Psychological First Aid Training for the general public](https://forms.gle/4cDRQBHEJ9cgCeEn7) coordinated by JustAGirl
 
 
 ## Support local journalism
