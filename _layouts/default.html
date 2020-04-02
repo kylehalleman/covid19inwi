@@ -10,47 +10,10 @@
   </head>
 
   <body>
-
-    <!-- HEADER -->
-
-    <header>
-      <a href='https://www.covid19inwi.com'><p class="site-title">{{ site.title | default: site.github.repository_name }}</p></a>
-      <p class="site-desc">{{ site.description | default: site.github.project_tagline }}. ⚠️ <a href="https://www.dhs.wisconsin.gov/covid-19/illness.htm">If you feel ill</a> ⚠️</p>
-
-      <nav aria-label="Main navigation">
-        <ul class="site-nav">
-          {% assign sorted_pages = site.pages | sort : "order" %}
-          {% for item in sorted_pages %}
-            {% if item.title %}
-              <li class="site-nav__item">
-                <a href=".{{ item.url }}">{{ item.title }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </header>
-
-    <!-- MAIN CONTENT -->
+    {% include header.html %}
     <main>
       {{ content }}
     </main>
-
-    <!-- FOOTER  -->
-
-    <footer>
-      <h2>Contributors</h2>
-      <ul class="contributors">
-        {% for user in site.github.contributors %}
-          <li class="contributor">
-            <a href="{{ user.html_url }}">
-              <img src="{{user.avatar_url}}" alt="Avatar for {{ user.login }}"/>
-              {{ user.login }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </footer>
-    <script src="{{ '/assets/js/site.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+    {% include footer.html %}
   </body>
 </html>

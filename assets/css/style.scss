@@ -22,26 +22,45 @@
 
 :root {
   --container-size: 40em;
-  /* set up CSS vars */
-  --base-color: hsl(0, 0%, 20%);
+  --base-color: hsl(230, 48%, 24%);
   --base-bg: hsl(0, 0%, 96%);
-  --base-color--transparent: hsla(0, 0%, 20%, 0.375);
-  --base-color--very-transparent: hsla(0, 0%, 20%, 0.0375);
+  --base-color--transparent: hsla(230, 48%, 24%, 0.375);
+  --base-color--very-transparent: hsla(230, 48%, 24%, 0.0375);
   --base-link-color: #4a69bd;
   --base-link-visited: rebeccapurple;
   --base-link-active: hsl(344, 79%, 40%);
 }
 
+.inverted {
+  --base-color: hsl(0, 0%, 96%);
+  --base-bg: hsl(230, 48%, 24%);
+  --base-color--transparent: hsla(0, 0%, 96%, 0.375);
+  --base-color--very-transparent: hsla(0, 0%, 96%, 0.0375);
+  --base-link-color: #25ccf7;
+  --base-link-visited: #d6a2e8;
+  --base-link-active: #f1c40f;
+}
+
 @media (prefers-color-scheme: dark), (prefers-dark-interface) {
   :root {
     --base-color: hsl(0, 0%, 96%);
-    --base-bg: hsl(0, 0%, 20%);
+    --base-bg: hsl(230, 48%, 24%);
     --base-color--transparent: hsla(0, 0%, 96%, 0.375);
     --base-color--very-transparent: hsla(0, 0%, 96%, 0.0375);
-    --base-link-color: #34ace0;
     --base-link-color: #25ccf7;
     --base-link-visited: #d6a2e8;
     --base-link-active: #f1c40f;
+  }
+
+  .inverted {
+    --container-size: 40em;
+    --base-color: hsl(230, 48%, 24%);
+    --base-bg: hsl(0, 0%, 96%);
+    --base-color--transparent: hsla(230, 48%, 24%, 0.375);
+    --base-color--very-transparent: hsla(230, 48%, 24%, 0.0375);
+    --base-link-color: #4a69bd;
+    --base-link-visited: rebeccapurple;
+    --base-link-active: hsl(344, 79%, 40%);
   }
 }
 
@@ -53,6 +72,7 @@ html {
 html,
 body {
   min-height: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -75,20 +95,22 @@ body {
 
 a {
   color: var(--base-link-color);
+
+  &:active {
+    color: var(--base-link-active);
+  }
+
+  &:visited {
+    color: var(--base-link-visited);
+  }
 }
 
-a:active {
-  color: var(--base-link-active);
-}
-
-a:visited {
-  color: var(--base-link-visited);
-}
-
-main {
+main,
+header,
+nav {
+  max-width: var(--container-size);
   margin: 0 auto;
   padding: 0 1em;
-  max-width: var(--container-size);
 }
 
 h1,
@@ -98,8 +120,6 @@ h4,
 h5,
 h6 {
   margin: 1em 0 0.5em;
-  margin-block-start: 1em;
-  margin-block-end: 0.5em;
 }
 
 img,
@@ -114,38 +134,12 @@ p {
 
 p + p {
   margin: 1em 0 0;
-  margin-block-start: 1em;
-}
-
-hr {
-  /* normalize */
-  box-sizing: content-box;
-  border: 0;
-  height: 0.0625em;
-  background-color: hsl(0, 0%, 20%);
-  background-color: var(--base-color);
 }
 
 abbr {
   text-decoration: none;
   border-bottom: 0.0625em dotted;
   cursor: help;
-}
-
-/**
-  * from Normalize:
-  * 1. Correct the inheritance and scaling of font size in all browsers.
-  * 2. Correct the odd `em` font sizing in all browsers.
-  */
-
-pre,
-code,
-kbd,
-samp {
-  font-family: monospace, monospace;
-  /* 1 */
-  font-size: 1em;
-  /* 2 */
 }
 
 small {
@@ -157,20 +151,9 @@ sup {
   line-height: 1;
 }
 
-details {
-  margin-bottom: 1em;
-  margin-block-end: 1em;
-}
-
-summary {
-  font-weight: 700;
-}
-
 blockquote {
   margin-left: 1.25em;
-  margin-inline-start: 1.25em;
   margin-right: 2em;
-  margin-inline-end: 2em;
   padding-left: 0.75em;
   border-left: 0.0625em solid;
 }
@@ -179,50 +162,9 @@ dt {
   font-style: italic;
 }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-bottom: 1em;
-  margin-block-end: 1em;
-}
-
-caption {
-  font-style: italic;
-}
-
-thead {
-  border-bottom: 2px solid;
-}
-
-th,
-td {
-  text-align: left;
-  text-align: start;
-  vertical-align: top;
-  padding: 0.25em 0.5em;
-}
-
-tr {
-  border-bottom: 1px solid;
-}
-
-tfoot {
-  border-top: 2px solid;
-}
-
-tfoot tr {
-  border-bottom: 0;
-}
-
-tbody tr:nth-of-type(even) {
-  background-color: hsla(0, 0%, 0%, 0.0375);
-  background-color: var(--base-color--very-transparent);
-}
-
 ol,
 ul {
   margin: 0 0 1em;
-  margin-block-end: 1em;
   padding-left: 2em;
 }
 
@@ -230,62 +172,140 @@ ol ol,
 ol ul,
 ul ol,
 ul ul {
-  margin: 0;
-  margin-block-end: 0;
-  margin-block-start: 0.25em;
+  margin-top: 0.25em;
+  margin-bottom: 0;
 }
 
 li {
-  margin-block-end: 0.25em;
+  margin-bottom: 0.25em;
 }
 
-// custom stuff
+/**
+ * Header
+ */
+.banner {
+  padding: 0.5em 0 1em;
+  color: var(--base-bg);
+  background-color: var(--base-color);
+  position: relative;
 
-footer,
-header {
-  margin: 0 auto;
-  padding: 1em;
-  max-width: var(--container-size);
+  &:before {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 100%;
+    top: 0;
+    background-color: var(--base-color);
+    width: 200vw;
+    left: -50vw;
+    z-index: -1;
+  }
 }
 
 .site-title {
+  color: var(--base-bg);
   font-size: 2em;
   margin-bottom: 0;
   margin-block-end: 0;
+  text-decoration: none;
+  line-height: 1;
+
+  &:visited {
+    color: var(--base-bg);
+  }
 }
 
 .site-desc {
   font-size: 0.75em;
-  margin-top: 0;
-  margin-block-start: 0;
+  margin-top: 0.5em;
+  margin-block-start: 0.5em;
 }
 
 .site-nav {
   margin-top: 1em;
   margin-block-start: 1em;
-  // padding-left: 0;
-  // display: flex;
-  // list-style: none;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
 }
 
 .site-nav__item {
+  padding: 0 0.5em;
+  flex: 0 1 33%;
+  text-align: center;
+}
+
+/**
+ * Main content area
+ */
+.table-of-contents {
+  padding: 0.25em 0.5em;
+  border: 0.0625em solid;
+  border-radius: 0.25em;
+}
+
+h1 {
+  font-size: 1.875em;
+  margin: 0 0 0.375em;
+  border-bottom: 0.0625rem solid;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 2em 0 0.5em;
+}
+
+h3 {
+  font-size: 1.125em;
+}
+
+/**
+ * Footer
+ */
+.site-footer {
+  margin: 4em auto 0;
+  padding: 1em;
+  max-width: var(--container-size);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.contributors-heading {
+  margin: 0 0 0.25em;
+}
+
+.contribute-link {
+  font-size: 0.5em;
+  vertical-align: middle;
 }
 
 .contributors {
+  font-size: 0.75em;
   display: flex;
   flex-wrap: wrap;
   list-style: none;
   text-align: center;
   padding-left: 0;
+  margin: 1em 0 0;
+}
 
-  img {
-    display: block;
-    margin: 0 auto 0.25em;
-    max-width: 4em;
-    border-radius: 100%;
-  }
+.avatar {
+  display: block;
+  margin: 0 auto 0.25em;
+  max-width: 4em;
+  border-radius: 100%;
 }
 
 .contributor {
-  margin: 1em;
+  margin: 0 1em;
+}
+
+.cfm-logo {
+  display: block;
+  width: 100%;
+  max-width: 10em;
+  align-self: flex-end;
+  fill: var(--base-bg);
+  margin-top: 1em;
 }

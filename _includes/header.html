@@ -1,0 +1,20 @@
+<header>
+	<div class="banner">
+		<a href="https://www.covid19inwi.com" class="site-title">
+			{{ site.title | default: site.github.repository_name }}
+		</a>
+		<p class="site-desc">{{ site.description | default: site.github.project_tagline }}. ⚠️ <a href="https://www.dhs.wisconsin.gov/covid-19/illness.htm" class="inverted">If you feel ill</a> ⚠️</p>
+	</div>
+	<nav aria-label="Main navigation">
+		<ul class="site-nav">
+			{% assign sorted_pages = site.pages | sort : "order" %}
+			{% for item in sorted_pages %}
+				{% if item.title and item.tag != 'exclude' %}
+					<li class="site-nav__item">
+						<a href="{{ item.url }}">{{ item.title }}</a>
+					</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</nav>
+</header>

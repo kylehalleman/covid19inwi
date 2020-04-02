@@ -2,7 +2,7 @@
 order: 1
 ---
 
-# General information and data
+# General information
 
 * Table of contents
 {:toc}
