@@ -27,7 +27,7 @@ order: 3
 
 * [AyudaMutuaMKE](https://www.facebook.com/ayudamutuamke/photos/rpp.100482084927977/117514919891360/?type=3&theater)
 
- - Supplies most needed: Canned food, hygiene supplies: toilet paper, sanitary napkins and tampons, cleaning supplies (bars of soap), diapers and baby wipes
+  - Supplies most needed: Canned food, hygiene supplies: toilet paper, sanitary napkins and tampons, cleaning supplies (bars of soap), diapers and baby wipes
 
   - 🚗Food & supply pick up TUESDAY-THURSDAY @ 4-7PM
 
