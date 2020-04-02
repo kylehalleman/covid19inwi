@@ -15,7 +15,7 @@ order: 2
 * [2-1-1 Wisconsin - COVID-19 Information and Resources](https://211wisconsin.communityos.org/coronavirus)
 * [Where To Find Food, Housing Help And More In Wisconsin During The COVID-19 Pandemic - WPR](https://www.wpr.org/where-find-food-housing-help-and-more-wisconsin-during-covid-19-pandemic)
 * [MKE Responds Basic Needs Assistance Form](https://t.co/R5f4KZzbPp?amp=1)
-  - The fund's immediate focus is basic needs (food & housing) and medical and behavioral health services. 
+  - The fund's immediate focus is basic needs (food & housing) and medical and behavioral health services.
   - Any questions? Contact MKEresponds@greatermilwaukeefoundation.org
 * [Southside Organizing Center Resource Guide](https://socmilwaukee.org/index/coronavirus-info)
   - Additional resources covering a wide array of needs
@@ -24,8 +24,8 @@ order: 2
 
 * [Hunger Task Force](https://www.hungertaskforce.org/what-we-do/get-help-now-covid-19/)
   * [Interactive map](https://www.google.com/maps/d/u/0/viewer?mid=1ZZJSmpJNj4dVUszEuHnX3-w5vjj_bhAB&ll=43.05231163077368%2C-87.90688322141955&z=12)
-  <iframe src="https://www.google.com/maps/d/embed?mid=1ZZJSmpJNj4dVUszEuHnX3-w5vjj_bhAB" width="640" height="480"></iframe>
-  
+  <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1ZZJSmpJNj4dVUszEuHnX3-w5vjj_bhAB" width="640" height="480"></iframe> -->
+
 * [Feeding America Eastern Wisconsin - Find Help](https://feedingamericawi.org/how-feeding-america-eastern-wisconsin-is-responding-to-the-coronavirus/#Find_Help)
 * [Free community meals for those in need at Tandem](https://www.facebook.com/tandemmke/)
 * [Boys & Girls Clubs Meal Continuation Program](https://www.bgcmilwaukee.org/meal-continuation-program/)
