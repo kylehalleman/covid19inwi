@@ -7,6 +7,12 @@ order: 3
 * Table of contents
 {:toc}
 
+## Stories
+
+* 11 Milwaukee Businesses Adapt to Covid19s
+<div id="buzzsprout-player-3195187"></div>
+<script src="https://www.buzzsprout.com/202067/3195187-eleven-milwaukee-businesses-adapt-to-covid19.js?container_id=buzzsprout-player-3195187&player=small" type="text/javascript" charset="utf-8"></script>
+
 ## General volunteering and donating
 
 * [Greater Milwaukee Foundation’s MKE Responds Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
