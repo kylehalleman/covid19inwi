@@ -20,9 +20,12 @@ order: 1
 * [Wisconsin COVID-19 Coronavirus Information Dashboard](https://govstatus.egov.com/wi-covid-19)
 * [Washington-Ozaukee counties public health department](http://www.washozwi.gov/) (includes info on food pantries)
 * [Milwaukee County COVID-19 Dashboard and news releases](https://county.milwaukee.gov/EN/COVID-19)
+* [Temporary Ban on Evictions and Foreclosures](https://content.govdelivery.com/attachments/WIGOV/2020/03/27/file_attachments/1412886/EO%2015%20Ban%20on%20Evictions%20and%20Foreclosures.pdf)
+  - [FAQ by Journal Sentinel](https://www.jsonline.com/story/news/local/2020/04/01/what-know-wisconsins-ban-evictions-and-foreclosures/5105585002/)
 * [Stay At Home Requirement (SPANISH)](https://city.milwaukee.gov/ImageLibrary/Groups/healthAuthors/COVID-19/MKEMHDCOVID19StayAd3.25.20SPANISH.jpg)
 * [Translated FAQs & Letters to Family by MPS Superintendent](https://mps.milwaukee.k12.wi.us/en/District/About-MPS/District-News/Covid-19-Updates/Translated-Resources.htm)
 * [Milwaukee Health Department Facebook Page](https://www.facebook.com/MKEHealth/photos/a.1258640834204291/2768023429932683/?type=3&theater)
+
 
 ## Civic Engagement
 
