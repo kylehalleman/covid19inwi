@@ -70,6 +70,8 @@ order: 2
 
 ## Find Employment
 
+* [Job Opportunities at Start Ups](https://www.wicovid19startuptalent.com/#companies-hiring) in Wisconsin
+
 ## Childcare
 
 * [Wisconsin Department of Children and Families - COVID-19 Child Care Request for Health Care Workers ](https://childcarefinder.wisconsin.gov/EmergencyRequest.aspx)
