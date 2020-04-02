@@ -33,3 +33,7 @@ order: 1
 * [Request An Absentee Ballot](https://myvote.wi.gov/en-US/VoteAbsentee)
 * [Be Counted for the 2020 Census](https://my2020census.gov/)
 * [Milwaukee Drive-up Early Voting](https://city.milwaukee.gov/election)
+
+## Neighborhood Association Announcements
+
+* [Walnut Way Conservation Corps](https://docs.google.com/document/d/1URm42w65HJR1aiRT9GXGun94LNqgkLkelonvOshrMNc/edit)
