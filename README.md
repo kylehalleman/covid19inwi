@@ -10,6 +10,7 @@ order: 1
 ## Data
 
 * [Google sheet with latest case numbers from DHS and case projections](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQpuJ2G20VVzGa_ic-dfwGVDDSv1hCA1n94mIm51GWA0SX74nYoiq4yn1H_o0N8doCFxmOL8E9jbPnW/pubhtml)
+* [Trajectory of confirmed COVID-19 cases in Wisconsin - Covid Trends](https://aatishb.com/covidtrends/?region=US&location=Wisconsin)
 
 ## Official sources
 
@@ -33,3 +34,7 @@ order: 1
 * [Request An Absentee Ballot](https://myvote.wi.gov/en-US/VoteAbsentee)
 * [Be Counted for the 2020 Census](https://my2020census.gov/)
 * [Milwaukee Drive-up Early Voting](https://city.milwaukee.gov/election)
+
+## Neighborhood Association Announcements
+
+* [Walnut Way Conservation Corps](https://docs.google.com/document/d/1URm42w65HJR1aiRT9GXGun94LNqgkLkelonvOshrMNc/edit)

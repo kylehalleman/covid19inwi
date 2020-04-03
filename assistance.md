@@ -26,6 +26,11 @@ order: 2
   * [Interactive map](https://www.google.com/maps/d/u/0/viewer?mid=1ZZJSmpJNj4dVUszEuHnX3-w5vjj_bhAB&ll=43.05231163077368%2C-87.90688322141955&z=12)
   <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1ZZJSmpJNj4dVUszEuHnX3-w5vjj_bhAB" width="640" height="480"></iframe> -->
 
+* [AyudaMutuaMKE](https://www.facebook.com/ayudamutuamke/photos/rpp.100482084927977/117514919891360/?type=3&theater)
+  - Food and Cleaning supplies
+  - Pick up (recommended): 1115 S. 7th St Milwaukee, WI (St Patrick's Church School building)
+  - For delivery, complete this form: bit.ly/aymke
+
 * [Feeding America Eastern Wisconsin - Find Help](https://feedingamericawi.org/how-feeding-america-eastern-wisconsin-is-responding-to-the-coronavirus/#Find_Help)
 * [Free community meals for those in need at Tandem](https://www.facebook.com/tandemmke/)
 * [Boys & Girls Clubs Meal Continuation Program](https://www.bgcmilwaukee.org/meal-continuation-program/)
@@ -62,6 +67,10 @@ order: 2
 
 * Crisis Counselor through CrisisTextLIne - individuals in severe distress, mental health crisis, or who have high anxiety over Covid-19 can text "HOME" to 741741
 * Online [Emotional Support Groups](https://forms.gle/JgvQ7BdV4N5wgmpw8) with JustAGirl Inc
+
+## Find Employment
+
+* [Job Opportunities at Start Ups](https://www.wicovid19startuptalent.com/#companies-hiring) in Wisconsin
 
 ## Childcare
 
