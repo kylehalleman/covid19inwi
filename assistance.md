@@ -72,6 +72,8 @@ order: 2
 
 * [Job Opportunities at Start Ups](https://www.wicovid19startuptalent.com/#companies-hiring) in Wisconsin
 
+* [Colorful Connections Job Matching Services](https://www.colorfulconnections.com/post/not-business-as-usual)
+
 ## Childcare
 
 * [Wisconsin Department of Children and Families - COVID-19 Child Care Request for Health Care Workers ](https://childcarefinder.wisconsin.gov/EmergencyRequest.aspx)
