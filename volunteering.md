@@ -18,6 +18,8 @@ order: 3
 * [Greater Milwaukee Foundation’s MKE Responds Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
 * [United Way - COVID-19 Urgent Needs Fund](https://www.unitedwaygmwc.org/Donate/COVID-19-Urgent-Needs-Fund)
 * [United Way - Covid-19 Urgent Needs Volunteer Opportunities](https://volunteer.unitedwaygmwc.org/need/?q=&age=&agency_id=&county=&dateOn=&distance=&zip=&need_impact_area=&need_init_id=2999&qualification_id=&cat_id=&meta%5B%5D=&meta%5B%5D=&meta%5B%5D=&allowTeams=&ug_id=&s=1)
+* [Love on Black Women Fund](https://www.facebook.com/donate/919784808471600/1122212991450620/
+  - This fund will be used to support the black mothers of Milwaukee who are needling financial assistance. Funds will pay for groceries, cleaning and hygiene supplies and child care for folks who still need to work during Safer at Home.)
 
 ## Food assistance
 
@@ -30,7 +32,6 @@ order: 3
   - Supplies most needed: Canned food, hygiene supplies: toilet paper, sanitary napkins and tampons, cleaning supplies (bars of soap), diapers and baby wipes
 
   - 🚗Food & supply pick up TUESDAY-THURSDAY @ 4-7PM
-
 
 
 ## Childcare
