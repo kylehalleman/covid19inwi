@@ -91,6 +91,10 @@ body {
   background-color: var(--base-bg);
   color: hsl(0, 0%, 20%);
   color: var(--base-color);
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 a {
@@ -105,9 +109,14 @@ a {
   }
 }
 
+main {
+  flex: 1 0 auto;
+}
+
 main,
 header,
 nav {
+  width: 100%;
   max-width: var(--container-size);
   margin: 0 auto;
   padding: 0 1em;
@@ -263,6 +272,7 @@ h3 {
  * Footer
  */
 .site-footer {
+  width: 100%;
   margin: 4em auto 0;
   padding: 1em;
   max-width: var(--container-size);
