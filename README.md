@@ -31,11 +31,7 @@ order: 1
 
 Use this embedded sign-up form to receive government email updates via [Granicus](https://granicus.com/covidtoolkit/), a company that creates websites for public organizations and US government entities
 
-<script
-src="https://public.govdelivery.com/assets/Signup.js"
-data-account-code="GOVENGAGE"
-data-signup-id="14998"
-></script>
+<script src="https://public.govdelivery.com/assets/Signup.js" data-account-code="GOVENGAGE" data-signup-id="14998"></script>
 
 ## Civic Engagement
 
