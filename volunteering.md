@@ -62,6 +62,9 @@ order: 3
 
 * [Psychological First Aid Training for the general public](https://forms.gle/4cDRQBHEJ9cgCeEn7) coordinated by JustAGirl
 
+## Making PPE
+
+* Milwaukee Makerspace [Helping make and donate PPE for Milwaukee Metro](https://charity.gofundme.com/mkemakerspace)
 
 ## Support local journalism
 
