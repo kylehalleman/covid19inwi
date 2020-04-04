@@ -19,6 +19,9 @@ order: 2
   - Any questions? Contact MKEresponds@greatermilwaukeefoundation.org
 * [Southside Organizing Center Resource Guide](https://socmilwaukee.org/index/coronavirus-info)
   - Additional resources covering a wide array of needs
+* [Metcalf Park Community Bridges](http://metcalfeparkbridges.org/resources/)
+  - [Community Heroes: Metcalfe Park organizers go digital with mass-texting and mutual aid during COVID-19 crisis](https://milwaukeenns.org/2020/04/02/community-heroes-metcalfe-park-organizers-go-digital-with-mass-texting-and-mutual-aid-during-covid-19-crisis/)
+
 
 ## Food assistance
 

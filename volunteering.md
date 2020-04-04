@@ -20,6 +20,9 @@ order: 3
 * [United Way - Covid-19 Urgent Needs Volunteer Opportunities](https://volunteer.unitedwaygmwc.org/need/?q=&age=&agency_id=&county=&dateOn=&distance=&zip=&need_impact_area=&need_init_id=2999&qualification_id=&cat_id=&meta%5B%5D=&meta%5B%5D=&meta%5B%5D=&allowTeams=&ug_id=&s=1)
 * [Love on Black Women Fund](https://www.facebook.com/donate/919784808471600/1122212991450620/)
   - This fund will be used to support the black mothers of Milwaukee who are needling financial assistance. Funds will pay for groceries, cleaning and hygiene supplies and child care for folks who still need to work during Safer at Home.
+* [Metcalf Park Community Bridges](http://metcalfeparkbridges.org/resources/)
+  - [Community Heroes: Metcalfe Park organizers go digital with mass-texting and mutual aid during COVID-19 crisis](https://milwaukeenns.org/2020/04/02/community-heroes-metcalfe-park-organizers-go-digital-with-mass-texting-and-mutual-aid-during-covid-19-crisis/)
+  
 
 ## Food assistance
 
