@@ -27,6 +27,10 @@ order: 1
 * [Translated FAQs & Letters to Family by MPS Superintendent](https://mps.milwaukee.k12.wi.us/en/District/About-MPS/District-News/Covid-19-Updates/Translated-Resources.htm)
 * [Milwaukee Health Department Facebook Page](https://www.facebook.com/MKEHealth/photos/a.1258640834204291/2768023429932683/?type=3&theater)
 
+## COVID-19 govNews SignUp
+
+Use this embedded sign-up form to receive government email updates via [Granicus](https://granicus.com/covidtoolkit/), a company that creates websites for public organizations and US government entities
+
 <script
 src="https://public.govdelivery.com/assets/Signup.js"
 data-account-code="GOVENGAGE"
