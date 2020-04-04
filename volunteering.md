@@ -64,7 +64,7 @@ order: 3
 
 ## Making PPE
 
-* Milwaukee Makerspace [Helping make and donate PPE for Milwaukee Metro](https://charity.gofundme.com/mkemakerspace)
+* Milwaukee Makerspace [Helping make and donate PPE for Milwaukee Metro](https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee)
 
 ## Support local journalism
 
