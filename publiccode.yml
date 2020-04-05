@@ -1,0 +1,58 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - collaboration
+  - resource-management
+description:
+  it:
+    features:
+      - 'Links, email-updates, open to contributions'
+    genericName: Covid19inWi
+    longDescription: >
+      A list of links to local information and resources about COVID-19. 
+      Comprehensive listing of local resources for Wisconsin.  Most
+      comprehensive for Milwaukee.  Hope to add multimedia elements as well. 
+      Data analysis is also included in the data portion.  It gives current
+      counts on people tested for Covid19, deaths, and projections for each
+      respectively.  This is completely open to community contributions and is
+      meant to be replicable for other localities around the country and the
+      world.  Thank you!
+    shortDescription: 'A list of links to local information and resources about COVID-19 '
+developmentStatus: beta
+intendedAudience:
+  countries:
+    - us
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+landingURL: 'https://www.covid19inwi.com'
+legal:
+  license: MPL-1.0
+  repoOwner: Kyle Hallerman
+localisation:
+  availableLanguages:
+    - en
+    - es
+  localisationReady: false
+maintenance:
+  contacts:
+    - name: Kyle Hallerman
+  type: internal
+name: Covid19inWi
+platforms:
+  - web
+releaseDate: '2020-03-25'
+softwareType: standalone/web
+url: 'https://github.com/kylehalleman/covid19inwi'
