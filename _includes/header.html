@@ -6,7 +6,8 @@
 		<p class="site-desc">{{ site.description | default: site.github.project_tagline }}. ⚠️ <a href="https://www.dhs.wisconsin.gov/covid-19/illness.htm" class="inverted">If you feel ill</a> ⚠️</p>
 	</div>
 	<nav aria-label="Main navigation">
-		<ul class="site-nav">
+		<p class="site-nav-label">I want to know…</p>
+		<ul class="site-nav inverted">
 			{% assign sorted_pages = site.pages | sort : "order" %}
 			{% for item in sorted_pages %}
 				{% if item.title and item.tag != 'exclude' %}

@@ -230,18 +230,36 @@ li {
   margin-block-start: 0.5em;
 }
 
+.site-nav-label {
+  font-weight: 700;
+  text-align: center;
+  margin: 1em 0 0;
+}
+
 .site-nav {
-  margin-top: 1em;
-  margin-block-start: 1em;
+  margin-top: 0.5em;
+  margin-block-start: 0.5em;
   display: flex;
   padding-left: 0;
   list-style: none;
 }
 
 .site-nav__item {
-  padding: 0 0.5em;
   flex: 0 1 33%;
   text-align: center;
+
+  a {
+    display: block;
+    text-decoration: none;
+    padding: 0.25em 0.5em;
+    margin: 0 0.5em;
+    border-radius: 0.25em;
+    background-color: var(--base-bg);
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 /**
