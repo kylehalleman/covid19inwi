@@ -114,8 +114,7 @@ main {
 }
 
 main,
-header,
-nav {
+header {
   width: 100%;
   max-width: var(--container-size);
   margin: 0 auto;
@@ -239,9 +238,14 @@ li {
 .site-nav {
   margin-top: 0.5em;
   margin-block-start: 0.5em;
-  display: flex;
   padding-left: 0;
   list-style: none;
+}
+
+@media (min-width: 30em) {
+  .site-nav {
+    display: flex;
+  }
 }
 
 .site-nav__item {
