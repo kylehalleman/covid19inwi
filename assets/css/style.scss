@@ -275,6 +275,18 @@ li {
   border-radius: 0.25em;
 }
 
+.back-to-top {
+  font-size: 50%;
+  float: right;
+  transform: translateY(2ex);
+}
+
+.anchor {
+  font-size: 0.75em;
+  margin-left: 0.5em;
+  text-decoration: none;
+}
+
 h1 {
   font-size: 1.875em;
   margin: 0 0 0.375em;
