@@ -65,7 +65,12 @@ order: 2
 
 * [Healthcare.gov](https://www.healthcare.gov/)
 * [City of Milwaukee - Free and Low-cost Clinics in Milwaukee](https://city.milwaukee.gov/health/medassist/health/free-and-Lowcost-Clinics-in-Milwaukee)
-
+* [16th Street Clinic](https://sschc.org/our-care/coronavirus/)
+  - Work Excuse Letters
+  - Prevention Basics
+  - Common Questions
+  - More ["If you feel ill"](https://sschc.org/wp-content/uploads/2020/04/What-to-do-if-you-are-sick-or-think-you-are-sick-with-COVID-19.pdf)
+ 
 ### Mental Health
 
 * Crisis Counselor through CrisisTextLIne - individuals in severe distress, mental health crisis, or who have high anxiety over Covid-19 can text "HOME" to 741741
