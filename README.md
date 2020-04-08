@@ -12,6 +12,7 @@ order: 1
 * [Google sheet with latest case numbers from DHS and case projections](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQpuJ2G20VVzGa_ic-dfwGVDDSv1hCA1n94mIm51GWA0SX74nYoiq4yn1H_o0N8doCFxmOL8E9jbPnW/pubhtml)
 * [Trajectory of confirmed COVID-19 cases in Wisconsin - Covid Trends](https://aatishb.com/covidtrends/?region=US&location=Wisconsin)
 * [ArcGIS Dashboard for Wisconsin](https://monroeco.maps.arcgis.com/apps/opsdashboard/index.html#/725e33180ffe4dcda2d7435c842fe902)
+* [COVID-19 Projections for Wisconsin - IHME](https://covid19.healthdata.org/united-states-of-america/wisconsin)
 
 ## Official sources
 
