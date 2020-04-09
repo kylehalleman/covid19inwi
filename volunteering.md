@@ -13,6 +13,11 @@ order: 3
 <div id="buzzsprout-player-3195187"></div>
 <script src="https://www.buzzsprout.com/202067/3195187-eleven-milwaukee-businesses-adapt-to-covid19.js?container_id=buzzsprout-player-3195187&player=small" type="text/javascript" charset="utf-8"></script>
 
+## Making PPE
+
+* Milwaukee Makerspace [Helping make and donate PPE for Milwaukee Metro](https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee4334)
+* Help Just One More Ministry [Make Masks for Distribution](https://www.jomministry.org/masks)
+
 ## General volunteering and donating
 
 * [Greater Milwaukee Foundation’s MKE Responds Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
@@ -62,9 +67,6 @@ order: 3
 
 * [Psychological First Aid Training for the general public](https://forms.gle/4cDRQBHEJ9cgCeEn7) coordinated by JustAGirl
 
-## Making PPE
-
-* Milwaukee Makerspace [Helping make and donate PPE for Milwaukee Metro](https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee)
 
 ## Support local journalism
 
