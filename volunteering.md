@@ -15,7 +15,7 @@ order: 3
 
 ## Making PPE
 
-* Milwaukee Makerspace [Helping make and donate PPE for Milwaukee Metro](https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee4334)
+* [Milwaukee Makerspace - Donate to PPE GoFundMe](https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee)
 * Help Just One More Ministry [Make Masks for Distribution](https://www.jomministry.org/masks)
 
 ## General volunteering and donating
