@@ -13,6 +13,7 @@ order: 1
 * [Trajectory of confirmed COVID-19 cases in Wisconsin - Covid Trends](https://aatishb.com/covidtrends/?region=US&location=Wisconsin)
 * [ArcGIS Dashboard for Wisconsin](https://monroeco.maps.arcgis.com/apps/opsdashboard/index.html#/725e33180ffe4dcda2d7435c842fe902)
 * [COVID-19 Projections for Wisconsin - IHME](https://covid19.healthdata.org/united-states-of-america/wisconsin)
+* UWM and Code For Milwaukee are partnering on an effort (WeCountCovid19) more comprehensively count Covid19 cases in the Milwaukee Region, please have anyone who is or has been sick over the last 2 months complete [this survey](https://t.co/5kKq4H5ITS?amp=1)
 
 ## Official sources
 
@@ -45,3 +46,5 @@ Use this embedded sign-up form to receive government email updates via [Granicus
 ## Neighborhood Association Announcements
 
 * [Walnut Way Conservation Corps](https://docs.google.com/document/d/1URm42w65HJR1aiRT9GXGun94LNqgkLkelonvOshrMNc/edit)
+
+* [Midtown Neighborhood Alliance](https://www.midtownneighborhoodalliance.org/coronavirus-info-resources)
