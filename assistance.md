@@ -22,6 +22,9 @@ order: 2
 * [Metcalf Park Community Bridges](http://metcalfeparkbridges.org/resources/)
   - [Community Heroes: Metcalfe Park organizers go digital with mass-texting and mutual aid during COVID-19 crisis](https://milwaukeenns.org/2020/04/02/community-heroes-metcalfe-park-organizers-go-digital-with-mass-texting-and-mutual-aid-during-covid-19-crisis/)
 
+## PPE Requests
+
+* [Face Shields for Health Care Providers from Milwaukee Makerspace](https://milwaukeemakerspace.org/covid-19/)
 
 ## Food assistance
 
