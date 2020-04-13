@@ -15,7 +15,7 @@ order: 1
 * [COVID-19 Projections for Wisconsin - IHME](https://covid19.healthdata.org/united-states-of-america/wisconsin)
 * UWM and Code For Milwaukee are partnering on an effort (WeCountCovid19) more comprehensively count Covid19 cases in the Milwaukee Region, please have anyone who is or has been sick over the last 2 months complete [this survey](https://t.co/5kKq4H5ITS?amp=1)
 
-## Official sources
+## Government and Other Trusted Sources
 
 * [Executive Orders by Governor Evers](https://evers.wi.gov/Pages/Newsroom/Executive-Orders.aspx)
   * [Safer At Home - Wisconsin Emergency Order #12](https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf)
@@ -24,6 +24,7 @@ order: 1
 * [Wisconsin COVID-19 Coronavirus Information Dashboard](https://govstatus.egov.com/wi-covid-19)
 * [Washington-Ozaukee counties public health department](http://www.washozwi.gov/) (includes info on food pantries)
 * [Milwaukee County COVID-19 Dashboard and news releases](https://county.milwaukee.gov/EN/COVID-19)
+* [Medical College of Wisconsin Covid-19 Resource Center](https://covid19.mcw.edu/)
 * [Temporary Ban on Evictions and Foreclosures](https://content.govdelivery.com/attachments/WIGOV/2020/03/27/file_attachments/1412886/EO%2015%20Ban%20on%20Evictions%20and%20Foreclosures.pdf)
   - [FAQ by Journal Sentinel](https://www.jsonline.com/story/news/local/2020/04/01/what-know-wisconsins-ban-evictions-and-foreclosures/5105585002/)
 * [Stay At Home Requirement (SPANISH)](https://city.milwaukee.gov/ImageLibrary/Groups/healthAuthors/COVID-19/MKEMHDCOVID19StayAd3.25.20SPANISH.jpg)
