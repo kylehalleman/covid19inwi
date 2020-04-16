@@ -19,6 +19,8 @@ order: 1
 
 * [Executive Orders by Governor Evers](https://evers.wi.gov/Pages/Newsroom/Executive-Orders.aspx)
   * [Safer At Home - Wisconsin Emergency Order #12](https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf)
+  * [Safer At Home Extension - Wisconsin Emergency Order #28](https://evers.wi.gov/Documents/COVID19/EMO28-SaferAtHome.pdf)
+  * [Safer At Home FAQs](https://content.govdelivery.com/attachments/WIGOV/2020/04/16/file_attachments/1428997/2020-04-16%20Safer%20at%20Home%20extension%20FAQ.pdf)
 * [WI DHS COVID-19 Homepage](https://www.dhs.wisconsin.gov/covid-19/index.htm)
 * [Official WI DHS confirmed cases numbers](https://www.dhs.wisconsin.gov/outbreaks/index.htm)
 * [Wisconsin COVID-19 Coronavirus Information Dashboard](https://govstatus.egov.com/wi-covid-19)
