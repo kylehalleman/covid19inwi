@@ -13,7 +13,8 @@ order: 1
 * [Trajectory of confirmed COVID-19 cases in Wisconsin - Covid Trends](https://aatishb.com/covidtrends/?region=US&location=Wisconsin)
 * [ArcGIS Dashboard for Wisconsin](https://monroeco.maps.arcgis.com/apps/opsdashboard/index.html#/725e33180ffe4dcda2d7435c842fe902)
 * [COVID-19 Projections for Wisconsin - IHME](https://covid19.healthdata.org/united-states-of-america/wisconsin)
-* UWM and Code For Milwaukee are partnering on an effort (WeCountCovid19) more comprehensively count Covid19 cases in the Milwaukee Region, please have anyone who is or has been sick over the last 2 months complete [this survey](https://t.co/5kKq4H5ITS?amp=1)
+* [We Count COVID-19](http://www.wecountcovid19.com/)
+  * A grassroots survey of anyone who is possibly sick with coronavirus. If you're sick, please visit the website to take the anonymous 5-minute survey to help understand what and where the symptoms of COVID-19 are. The website also provides data analysis reports of the survey results that are available for anyone to view. This is a joint effort from members of **Code for Milwaukee and UW-Milwaukee's School of Public Health**.
 
 ## Government and Other Trusted Sources
 
