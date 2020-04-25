@@ -28,6 +28,8 @@ order: 2
 
 * [Face Shields for Health Care Providers from Milwaukee Makerspace](https://milwaukeemakerspace.org/covid-19/)
 
+* [Request improvised face coverings for FREE](https://www.maskupmke.org/resources.html)
+
 ## Food assistance
 
 * [Hunger Task Force](https://www.hungertaskforce.org/what-we-do/get-help-now-covid-19/)
