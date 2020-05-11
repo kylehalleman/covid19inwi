@@ -59,7 +59,8 @@ order: 2
 
 ### For small businesses
 
-* [Wisconsin Economic Development Corporation - COVID-19 Business Resources](https://wedc.org/programs-and-resources/covid-19-response/)
+* [Wisconsin Economic Development Corporation (WEDC) - COVID-19 Business Resources](https://wedc.org/programs-and-resources/covid-19-response/)
+* [WEDC Ethnic Minority Emergency Micro-business Grant](https://urbanmilwaukee.com/pressrelease/gov-evers-announces-grant-program-for-ethnically-diverse-micro-businesses/)
 * [Wisconsin Small Business Development Center](https://wisconsinsbdc.org/services/covid-19/)
 * [U.S. Small Business Administration - COVID-19: Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
 * [Wisconsin Women’s Business Initiative Corporation - COVID-19 Resources](https://www.wwbic.com/covid-19-resources/)
