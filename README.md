@@ -18,6 +18,7 @@ order: 1
 
 ## Government and Other Trusted Sources
 
+* [Badger Bounce Back Gating criteria checklist](https://www.dhs.wisconsin.gov/covid-19/prepare.htm)
 * [Badger Bounce Back Plan](https://content.govdelivery.com/attachments/WIGOV/2020/04/20/file_attachments/1431305/Badger%20Bounce%20Back%20PlanFINAL.pdf)
 * [Executive Orders by Governor Evers](https://evers.wi.gov/Pages/Newsroom/Executive-Orders.aspx)
   * [Safer At Home - Wisconsin Emergency Order #12](https://evers.wi.gov/Documents/COVID19/EMO12-SaferAtHome.pdf)
