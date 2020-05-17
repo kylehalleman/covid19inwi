@@ -85,4 +85,4 @@ order: 3
 
 ## Fighting for the Health and Saftey of the Incarcerated
 
-* Wisconsin [Policy Forum](http://www.prisonforum.org/)
+* Wisconsin [Prison Policy Forum](http://www.prisonforum.org/)
