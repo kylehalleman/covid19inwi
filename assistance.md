@@ -53,6 +53,8 @@ order: 2
 
 ## Financial assistance
 
+* ["We're All In" - Department of Administration Grants](https://doa.wi.gov/Pages/LocalGovtsGrants/COVID-Grants.aspx)
+  * [W.R.A.P - Wisconsin Rental Assistance Program](https://doa.wi.gov/Secretary/WRAP-infographic.pdf)
 * [Department of Workforce Development](https://dwd.wisconsin.gov/covid19/)
 * [Wisconsin Unemployment COVID-19 Public Information](https://dwd.wisconsin.gov/covid19/public/ui.htm)
 * [Apply for Unemployment Benefits Online](https://dwd.wisconsin.gov/uiben/apply/)
