@@ -13,33 +13,7 @@ order: 3
 <div id="buzzsprout-player-3195187"></div>
 <script src="https://www.buzzsprout.com/202067/3195187-eleven-milwaukee-businesses-adapt-to-covid19.js?container_id=buzzsprout-player-3195187&player=small" type="text/javascript" charset="utf-8"></script>
 
-* Mutual Aid Episode of Bridge the City
-<div class="sqs-audio-embed" data-url="https://static1.squarespace.com/static/5a38872baeb62568136bb151/t/5ecc58785e861630ff077029/1590450449966/mutual+aid_final.mp3/original/mutual+aid_final.mp3" data-mime-type="" data-title="Episode 81: Mutual Aid" data-author="Bridge the City" data-show-download="true" data-design-style="minimal" data-duration-in-ms="2003000" data-color-theme="dark" id="yui_3_17_2_1_1590698501677_173">
-<div id="yui_3_17_2_1_1590698501677_177" class="yui3-widget sqs-widget sqs-widgets-audio-player dark first-play"><div id="yui_3_17_2_1_1590698501677_179" class="sqs-widgets-audio-player-content"><div class="player download" id="yui_3_17_2_1_1590698501677_206">
-  <div class="action">
-    <div class="play">
-      <div class="play-button"></div>
-    </div>
-    <div class="pause">
-      <div class="pause-button"></div>
-    </div>
-  </div>
-  <div class="labels">
-    <div class="title-wrapper">
-      <div class="title" title="Episode 81: Mutual Aid" data-title="Episode 81: Mutual Aid">Episode 81: Mutual Aid</div>
-    </div>
-    <div class="artistName" title="Bridge the City">Bridge the City</div>
-  </div>
-  <div class="secondary-controls">
-    <div class="time">
-      <span class="progress"></span>
-      <span class="total"></span>
-    </div>
-  <div class="download"><a href="https://static1.squarespace.com/static/5a38872baeb62568136bb151/t/5ecc58785e861630ff077029/1590450449966/mutual+aid_final.mp3/original/mutual+aid_final.mp3?download=true" target="_blank">Download</a></div></div>
-  <div class="track" style="width: 1282px;">
-    <span class="played"><span class="icon"></span></span>
-  </div>
-</div></div></div></div>
+* [Bridge the City Episode 81: Mutual Aid](https://www.bridgethecitypodcast.com/listen/2020/5/25/episode-81-mutual-aid)
 
 ## Making PPE
 
@@ -60,12 +34,12 @@ order: 3
   - This fund will be used to support the black mothers of Milwaukee who are needling financial assistance. Funds will pay for groceries, cleaning and hygiene supplies and child care for folks who still need to work during Safer at Home.
 * [Metcalf Park Community Bridges](http://metcalfeparkbridges.org/resources/)
   - [Community Heroes: Metcalfe Park organizers go digital with mass-texting and mutual aid during COVID-19 crisis](https://milwaukeenns.org/2020/04/02/community-heroes-metcalfe-park-organizers-go-digital-with-mass-texting-and-mutual-aid-during-covid-19-crisis/)
-  
+
 
 ## Food assistance
 
 * Meal fundraiser for  a family meal by Safe & Sound on April 24th - [Contribute here!](https://safesound.org/familyfriday/)
- - If you make a donation Monday through Friday, April 17th, 100% of your contribution will go towards the preparation and delivery of a comforting meal from a local restaurant to a resident and their family on Friday, April 24th. 
+ - If you make a donation Monday through Friday, April 17th, 100% of your contribution will go towards the preparation and delivery of a comforting meal from a local restaurant to a resident and their family on Friday, April 24th.
 
 * [Hunger Task Force](https://www.hungertaskforce.org/volunteer/)
   - WUWM's Angelina Mosher Salazar [speaks with Hunger Task Force Executive Director Sherrie Tussler](https://www.wuwm.com/post/coronavirus-affects-network-provides-thousands-emergency-food#stream/0) about how the organization is trying to meet individuals hunger needs in midst of a pandmic.
