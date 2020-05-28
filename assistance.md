@@ -53,13 +53,16 @@ order: 2
 
 ## Financial assistance
 
+* ["We're All In" - Department of Administration Grants](https://doa.wi.gov/Pages/LocalGovtsGrants/COVID-Grants.aspx)
+  * [W.R.A.P - Wisconsin Rental Assistance Program](https://doa.wi.gov/Secretary/WRAP-infographic.pdf)
 * [Department of Workforce Development](https://dwd.wisconsin.gov/covid19/)
 * [Wisconsin Unemployment COVID-19 Public Information](https://dwd.wisconsin.gov/covid19/public/ui.htm)
 * [Apply for Unemployment Benefits Online](https://dwd.wisconsin.gov/uiben/apply/)
 
 ### For small businesses
 
-* [Wisconsin Economic Development Corporation - COVID-19 Business Resources](https://wedc.org/programs-and-resources/covid-19-response/)
+* [Wisconsin Economic Development Corporation (WEDC) - COVID-19 Business Resources](https://wedc.org/programs-and-resources/covid-19-response/)
+* [WEDC Ethnic Minority Emergency Micro-business Grant](https://urbanmilwaukee.com/pressrelease/gov-evers-announces-grant-program-for-ethnically-diverse-micro-businesses/)
 * [Wisconsin Small Business Development Center](https://wisconsinsbdc.org/services/covid-19/)
 * [U.S. Small Business Administration - COVID-19: Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
 * [Wisconsin Women’s Business Initiative Corporation - COVID-19 Resources](https://www.wwbic.com/covid-19-resources/)
@@ -101,4 +104,5 @@ order: 2
 
 ## Internet services
 
+* [Map of Public WiFi locations in the state](https://maps.psc.wi.gov/Apps/PublicWiFiLocations/index.html)
 * [Charter - Free Access to Spectrum Broadband For 60 Days](https://corporate.charter.com/newsroom/charter-to-offer-free-access-to-spectrum-broadband-and-wifi-for-60-days-for-new-K12-and-college-student-households-and-more)
