@@ -14,32 +14,7 @@ order: 3
 <script src="https://www.buzzsprout.com/202067/3195187-eleven-milwaukee-businesses-adapt-to-covid19.js?container_id=buzzsprout-player-3195187&player=small" type="text/javascript" charset="utf-8"></script>
 
 * Mutual Aid Episode of Bridge the City
-<div class="sqs-audio-embed" data-url="https://static1.squarespace.com/static/5a38872baeb62568136bb151/t/5ecc58785e861630ff077029/1590450449966/mutual+aid_final.mp3/original/mutual+aid_final.mp3" data-mime-type="" data-title="Episode 81: Mutual Aid" data-author="Bridge the City" data-show-download="true" data-design-style="minimal" data-duration-in-ms="2003000" data-color-theme="dark" id="yui_3_17_2_1_1590698501677_173">
-<div id="yui_3_17_2_1_1590698501677_177" class="yui3-widget sqs-widget sqs-widgets-audio-player dark first-play"><div id="yui_3_17_2_1_1590698501677_179" class="sqs-widgets-audio-player-content"><div class="player download" id="yui_3_17_2_1_1590698501677_206">
-  <div class="action">
-    <div class="play">
-      <div class="play-button"></div>
-    </div>
-    <div class="pause">
-      <div class="pause-button"></div>
-    </div>
-  </div>
-  <div class="labels">
-    <div class="title-wrapper">
-      <div class="title" title="Episode 81: Mutual Aid" data-title="Episode 81: Mutual Aid">Episode 81: Mutual Aid</div>
-    </div>
-    <div class="artistName" title="Bridge the City">Bridge the City</div>
-  </div>
-  <div class="secondary-controls">
-    <div class="time">
-      <span class="progress"></span>
-      <span class="total"></span>
-    </div>
-  <div class="download"><a href="https://static1.squarespace.com/static/5a38872baeb62568136bb151/t/5ecc58785e861630ff077029/1590450449966/mutual+aid_final.mp3/original/mutual+aid_final.mp3?download=true" target="_blank">Download</a></div></div>
-  <div class="track" style="width: 1282px;">
-    <span class="played"><span class="icon"></span></span>
-  </div>
-</div></div></div></div>
+<iframe src="https://open.spotify.com/embed-podcast/episode/7cggccHdouSTpOUfes0Ada" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## Making PPE
 
