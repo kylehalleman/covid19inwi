@@ -13,6 +13,8 @@ order: 3
 <div id="buzzsprout-player-3195187"></div>
 <script src="https://www.buzzsprout.com/202067/3195187-eleven-milwaukee-businesses-adapt-to-covid19.js?container_id=buzzsprout-player-3195187&player=small" type="text/javascript" charset="utf-8"></script>
 
+* [Bridge the City Episode 81: Mutual Aid](https://www.bridgethecitypodcast.com/listen/2020/5/25/episode-81-mutual-aid)
+
 ## Making PPE
 
 * [Milwaukee Makerspace - Donate to PPE GoFundMe](https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee)
@@ -24,6 +26,7 @@ order: 3
 
 ## General volunteering and donating
 
+
 * [Greater Milwaukee Foundation’s MKE Responds Fund](https://www.greatermilwaukeefoundation.org/donors/give-online/mkeresponds/)
 * [United Way - COVID-19 Urgent Needs Fund](https://www.unitedwaygmwc.org/Donate/COVID-19-Urgent-Needs-Fund)
 * [United Way - Covid-19 Urgent Needs Volunteer Opportunities](https://volunteer.unitedwaygmwc.org/need/?q=&age=&agency_id=&county=&dateOn=&distance=&zip=&need_impact_area=&need_init_id=2999&qualification_id=&cat_id=&meta%5B%5D=&meta%5B%5D=&meta%5B%5D=&allowTeams=&ug_id=&s=1)
@@ -31,12 +34,12 @@ order: 3
   - This fund will be used to support the black mothers of Milwaukee who are needling financial assistance. Funds will pay for groceries, cleaning and hygiene supplies and child care for folks who still need to work during Safer at Home.
 * [Metcalf Park Community Bridges](http://metcalfeparkbridges.org/resources/)
   - [Community Heroes: Metcalfe Park organizers go digital with mass-texting and mutual aid during COVID-19 crisis](https://milwaukeenns.org/2020/04/02/community-heroes-metcalfe-park-organizers-go-digital-with-mass-texting-and-mutual-aid-during-covid-19-crisis/)
-  
+
 
 ## Food assistance
 
 * Meal fundraiser for  a family meal by Safe & Sound on April 24th - [Contribute here!](https://safesound.org/familyfriday/)
- - If you make a donation Monday through Friday, April 17th, 100% of your contribution will go towards the preparation and delivery of a comforting meal from a local restaurant to a resident and their family on Friday, April 24th. 
+ - If you make a donation Monday through Friday, April 17th, 100% of your contribution will go towards the preparation and delivery of a comforting meal from a local restaurant to a resident and their family on Friday, April 24th.
 
 * [Hunger Task Force](https://www.hungertaskforce.org/volunteer/)
   - WUWM's Angelina Mosher Salazar [speaks with Hunger Task Force Executive Director Sherrie Tussler](https://www.wuwm.com/post/coronavirus-affects-network-provides-thousands-emergency-food#stream/0) about how the organization is trying to meet individuals hunger needs in midst of a pandmic.
@@ -81,3 +84,8 @@ order: 3
 * [UrbanMilwaukee](https://urbanmilwaukee.com/)
 * [Milwaukee Independent](http://www.milwaukeeindependent.com/)
 * [Journal Sentinel](https://www.jsonline.com/)
+
+
+## Fighting for the Health and Saftey of the Incarcerated
+
+* Wisconsin [Prison Policy Forum](http://www.prisonforum.org/)
