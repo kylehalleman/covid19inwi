@@ -5,6 +5,7 @@
 		</a>
 		<p class="site-desc">{{ site.description | default: site.github.project_tagline }}. ⚠️ <a href="https://www.dhs.wisconsin.gov/covid-19/illness.htm" class="inverted">If you feel ill</a> ⚠️</p>
 	</div>
+	{% comment %}
 	<nav aria-label="Main navigation">
 		<p class="site-nav-label">I want to know…</p>
 		<ul class="site-nav inverted">
@@ -18,4 +19,5 @@
 			{% endfor %}
 		</ul>
 	</nav>
+	{% endcomment %}
 </header>

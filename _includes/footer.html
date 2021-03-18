@@ -4,12 +4,14 @@
 		</h2>
 		<ul class="contributors inverted">
 			{% for user in site.github.contributors %}
-				<li class="contributor">
-					<a href="{{ user.html_url }}">
-						<img src="{{user.avatar_url}}" alt="Avatar for {{ user.login }}" class="avatar"/>
-						{{ user.login }}
-					</a>
-				</li>
+				{% if user.login != "dependabot[bot]" %}
+					<li class="contributor">
+						<a href="{{ user.html_url }}">
+							<img src="{{user.avatar_url}}" alt="Avatar for {{ user.login }}" class="avatar"/>
+							{{ user.login }}
+						</a>
+					</li>
+				{% endif %}
 			{% endfor %}
 		</ul>
 	</section>

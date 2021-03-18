@@ -196,6 +196,7 @@ li {
   color: var(--base-bg);
   background-color: var(--base-color);
   position: relative;
+  margin-bottom: 1em;
 
   &:before {
     content: "";
@@ -356,4 +357,10 @@ h3 {
 
 #signup-frame {
   margin-top: 1em;
+}
+
+main ul {
+  font-size: 1.5em;
+  font-size: clamp(1.5em, 6vw, 2.5em);
+  padding-left: 1em;
 }
